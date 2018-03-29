@@ -1,0 +1,12 @@
+*.ncb
+*.suo
+*.user
+*.kdev4
+*.obj
+*.log
+*.tlog
+*.idb
+*.pdb
+build/
+tmp/
+bin/
